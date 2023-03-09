@@ -1,0 +1,27 @@
+header {
+  background-color: red;
+  height: 100px;
+  width: 300px;
+}
+
+section {
+  background-color: yellow;
+  height: 100px;
+  width: 300px;
+}
+footer {
+  background-color: green;
+  height: 100px;
+  width: 300px;
+  margin: 10px;
+  border: solid black 10px;
+  border-radius: 15px;
+}
+.avatar {
+  width: 100px;
+  border-radius: 50px;
+  height: 100px;
+}
+#name {
+  color: blue;
+}
